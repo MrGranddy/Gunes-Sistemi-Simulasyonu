@@ -28,9 +28,9 @@ merkur_gunes_uzaklik = 5.791 * 1.e10
 ay_gunes_uzaklik = dunya_gunes_uzaklik + 3.844 * 1.e5
 saturn_gunes_uzaklik = 1.429 * 1.e12
 
-ayrik_zaman = 1000  # saniye
+ayrik_zaman = 100000  # saniye
 
-oran = 1.e8 * 2  # Bu oran sistemi ekrana sığdırmak için kullanılacak
+oran = 1.e10  # Bu oran sistemi ekrana sığdırmak için kullanılacak
 
 arkaplan_rengi = (20, 20, 20)
 (en, boy) = (1000, 1000)
